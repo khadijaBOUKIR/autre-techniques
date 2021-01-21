@@ -1,0 +1,33 @@
+nav
+{
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+}
+
+section
+{
+    border: 1px solid blue;
+    margin-left: 170px;
+}
+a
+{
+    display: block;
+}
+.secret
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
